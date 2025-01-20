@@ -1,0 +1,10 @@
+.dart_tool/
+.idea/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.vscode/
+build/
+ios/Flutter/.last_build_id
+.DS_Store
+.metadata
